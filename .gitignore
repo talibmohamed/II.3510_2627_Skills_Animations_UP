@@ -1,0 +1,15 @@
+*.iml
+.gradle/
+.kotlin/
+.idea/
+local.properties
+**/build/
+.cxx/
+.externalNativeBuild/
+
+# Keep classroom repository limited to the unfinished project.
+docs/
+*.ppt
+*.pptx
+*.pdf
+*.zip
