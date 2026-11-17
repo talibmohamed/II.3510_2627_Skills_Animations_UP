@@ -24,3 +24,7 @@ Device checks: `gradlew.bat :app:connectedDebugAndroidTest`
 The timing test is deliberately ignored until TODO 1a is complete. Remove its `@Ignore` annotation to check your timing implementation. Passing the other tests checks behavior, not animation quality. Use the acceptance checklist in EXERCISE.md to inspect the animation itself.
 
 Repository: https://github.com/talibmohamed/II.3510_2627_Skills_Animations_UP
+
+## Presentation
+
+Download the [final class presentation](docs/Animated_Listings_Presentation.pptx).
